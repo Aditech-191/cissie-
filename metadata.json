@@ -1,0 +1,6 @@
+{
+  "name": "SafeLens AI - Child Cyber Safety & Hackathon Classifier",
+  "description": "An interactive real-time inappropriate content classification platform, simulated browser extension, and beginner hackathon blueprint for child cyber safety.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
